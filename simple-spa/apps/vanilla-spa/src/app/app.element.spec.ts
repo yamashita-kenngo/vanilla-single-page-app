@@ -14,8 +14,8 @@ describe('AppElement', () => {
   it('should have a greeting', () => {
     app.connectedCallback();
 
-    expect(app.querySelector('h1').innerHTML).toEqual(
-      'Welcome to vanilla-spa!'
+    expect(app.querySelector('chat-slider').innerHTML).toEqual(
+      'Working chat-slider !'
     );
   });
 });
