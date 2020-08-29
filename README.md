@@ -6,5 +6,10 @@ SPAフレームワークなしにモダンな技術でSPAを作成すること�
 # 対象
 SPAについて学びたい人
 # 方法
-
+Web ComponentsとTypeScript を使って
 # 構成
+- Nxを使用してのモノレポ構成
+
+- フロントエンドをWeb Components を使用してのフレームワークレスのSPAとして構成する
+
+- バックエンドをExpress, MongoDB を使用して構成する
